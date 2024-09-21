@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&duration=4000&pause=500&color=58FF00&repeat=false&width=600&height=62&lines=Initializing...;User+authenticated+as+%22Hareram%22)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&duration=4000&pause=500&color=58FF00&repeat=true&width=600&height=62&lines=Initializing...;User+authenticated+as+%22Hareram%22)](https://git.io/typing-svg) <br>
 ![](https://komarev.com/ghpvc/?username=hareram1)<br>
 
 - 👨‍🏭 I’m currently pursuing <b>BCA  From Lovely Professional University</b> <br>
