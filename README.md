@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=hareram1)<br>
 
 - 👨‍🏭 I’m currently pursuing <b>BCA  From Lovely Professional University</b> <br>
-- 🏫 Currently learning <b>Penetration Testing, DSA Practice and Networking.</b> <br>
+- 🏫 Learning <b>Penetration Testing, DSA Practice and Networking.</b> <br>
 - 🙌 Looking to collaborate on <b> DSA and other security projects.</b> <br>
 
 ### 🕵 Social Media Handles!<br>
