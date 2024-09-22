@@ -38,8 +38,7 @@
   
   <img src="https://github-profile-trophy.vercel.app?username=hareram1&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hareram1&" alt="hareram1" /></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hareram1&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hareram1&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 
