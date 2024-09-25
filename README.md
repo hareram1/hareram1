@@ -5,6 +5,9 @@
 - 🏫 Learning <b>Penetration Testing, DSA, Networking etc..</b> <br>
 - 🙌 Looking to collaborate on <b> Networking and security projects.</b> <br>
 
+### 📔 TryHackMe:
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hareram1.png)](https://tryhackme.com/p/shreyasmalhotra)
+
 ### 🕵 Social Media Handles!<br>
 
 
